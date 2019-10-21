@@ -10,7 +10,7 @@ description: Dự án dịch bài viết của Math2IT.com
 
 ## Giới thiệu
 
-Trang web này đã tạo niềm cảm hứng rất lớn cho [Math2IT](http://math2it.com) viết và xuất bản các bài về **Toán học thường thức** và **Công nghệ thường thức**. Anh Kalid viết về Toán dưới góc độ trực quan và ứng dụng khá cao. Rất khác với lối viết về Toán truyền thống chỉ gồm định nghĩa, định lý, công thức, bài tập khô khan, các bài viết trên trang web gợi mở những ý tưởng và cách hiểu trực quan về các khái niệm trong Toán học.
+[BetterExplained](https://betterexplained.com) đã tạo niềm cảm hứng rất lớn cho [Math2IT](http://math2it.com) viết và xuất bản các bài về **Toán học thường thức** và **Công nghệ thường thức**. Anh Kalid viết về Toán dưới góc độ trực quan và ứng dụng khá cao. Rất khác với lối viết về Toán truyền thống chỉ gồm định nghĩa, định lý, công thức, bài tập khô khan, các bài viết trên trang web gợi mở những ý tưởng và cách hiểu trực quan về các khái niệm trong Toán học.
 
 Từ khi chia sẻ các bài viết về Toán với cùng ý tưởng viết như trên trên [fan page Math2IT](https://facebook.com/math2IT/) hay [Group Math2IT](https://www.facebook.com/groups/math2it/), rất rất nhiều bạn thích đọc thể loại này nhưng lại gặp không ít khó khăn trong việc đọc hiểu tiếng Anh chuyên ngành. Các bạn luôn hỏi "_Phải chi quyển này/bài viết này có tiếng Việt nhỉ?_". Do đó, Math2IT muốn dịch để các bạn có thể hòa mình cùng 450K độc giả của BetterExplained trên toàn thế giới.
 
