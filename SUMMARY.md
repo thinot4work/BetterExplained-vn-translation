@@ -1,6 +1,6 @@
 # Mục lục
 
-- [Trang chủ](docs/trang-chu.md)
+- [BetterExplained-vn-translation](docs/trang-chu.md)
 - [Các bài đã dịch](docs/tat-ca-bai-viet.md)
 
 ## Bài viết
