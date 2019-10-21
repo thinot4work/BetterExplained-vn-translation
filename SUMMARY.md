@@ -1,5 +1,7 @@
 # Mục lục
 
+- [Trang chủ](docs/home-page.md)
+
 ## Bài viết
 
 * [Phép tính vi tích phân \(calculus\)](docs/phep-tinh-vi-tich-phan-calculus/README.md)
