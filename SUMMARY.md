@@ -1,7 +1,7 @@
 # Mục lục
 
 - [Trang chủ](README.md)
-- [Chủ đề bài viết](bai-viet/)
+- [Chủ đề bài viết](bai-viet/README.md)
 
 ## Bài viết
 

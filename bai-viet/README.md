@@ -1,8 +1,7 @@
-# Tất cả bài viết
+# Chủ đề bài viết
 
-## Phép tính vi tích phân (calculus)
+Các bài viết nằm trong các chủ đề sau đây. Bạn vui lòng nhấn vào từng chủ đề để đọc bài viết. Đừng quên dùng chức năng tìm kiếm để tìm bài viết bạn cần.
 
-- [Hiểu trực quan chuỗi Taylor thông qua sự liên hệ với ADN](https://betterexplained.dinhanhthi.com/bai-viet/phep-tinh-vi-tich-phan-calculus/chuoi-taylor-va-adn)
+- [Phép tính vi tích phân (calculus)](https://math2it.gitbook.io/betterexplained-vn-translation/bai-viet/phep-tinh-vi-tich-phan-calculus).
+- [Giải tích Vector](https://math2it.gitbook.io/betterexplained-vn-translation/bai-viet/giai-tich-vector).
 
-## Giải tích Vector
-  - [Giải tích Vector: Hiểu về Thông Lượng (Flux)](https://betterexplained.dinhanhthi.com/bai-viet/giai-tich-vector/hieu-ve-thong-luong-flux)
