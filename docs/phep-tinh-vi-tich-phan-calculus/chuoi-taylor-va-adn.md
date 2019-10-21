@@ -2,6 +2,10 @@
 
 📒 [Bài viết gốc](https://betterexplained.com/articles/taylor-series/) 👦 Dịch bởi [Đinh Anh Thi](https://dinhanhthi.com)
 
+{% hint style="info" %}
+Nếu bạn phát hiện sai sót về **chính tả**, **cách dùng từ**, **thuật ngữ chuyên ngành** hay **sai sót đánh máy**. Bạn vui lòng [nhấn vào đây](https://github.com/math2it/BetterExplained-vn-translation/issues) để góp ý cho chúng mình nhé (Vui lòng ghi rõ tên bài viết)!
+{% endhint %}
+
 ## Dẫn đề
 
 Cơ thể con người có một đặc tính kỳ lạ: bạn có thể nghiên cứu về _toàn bộ cơ thể_ từ chỉ _một tế bào_. Chọn một tế bào, nghiên cứu sâu nhân của nó và xác định ADN bên trong. Chỉ với mẫu ADN bé nhỏ này, bạn có thể tạo ra một sinh vật hoàn chỉnh từ đó.
