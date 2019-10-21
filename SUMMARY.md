@@ -1,7 +1,4 @@
-# Table of contents
-
-* [Trang chủ](README.md)
-* [Chủ đề bài viết](docs/README.md)
+# Mục lục
 
 ## Bài viết
 
