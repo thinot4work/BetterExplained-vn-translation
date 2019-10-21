@@ -10,7 +10,7 @@ Chúng ta cũng có một sự tương ứng trong thế giới Toán Học! Ch�
 
 Chuỗi Taylor khám phá ra "ADN Toán Học" của hàm số và để cho chúng ta xây dựng lại hàm số đó từ chỉ một điểm duy nhất. Hãy cùng xem nó hoạt động thế nào nhé!
 
-![](../../.gitbook/assets/sine-frog.png)
+![](../../img/phep-tinh-vi-tich-phan-calculus/sine-frog.png)
 
 ## Lấy thông tin của hàm tại một điểm
 
@@ -171,7 +171,7 @@ $$
 
 Chúng ta có minh họa cho chuỗi ở trên như sau,
 
-![](../../.gitbook/assets/sine-better-models.png)
+![](../../img/phep-tinh-vi-tich-phan-calculus/sine-better-models.png)
 
 ## Một vài nhận xét
 
@@ -201,7 +201,7 @@ Khi ấy chuỗi ADN của $$\sin$$ chỉ là $$[0,1,0,0,-1]$$ lặp đi lặp l
 
 Ví dụ, thay vì lấy giá trị đầu là $$x=0$$, ta chọn $$x=\pi$$, sử dụng trang web [wolframalpha.com](https://www.wolframalpha.com/input/?i=taylor+series+sin+x+at+x%3Dpi), ta có thể biết được khai triển Taylor của $$\sin$$ trong trường hợp này như ở hình dưới đây.
 
-![](../../.gitbook/assets/taylor_series_x_pi.png)
+![](../../img/phep-tinh-vi-tich-phan-calculus/taylor_series_x_pi.png)
 
 Một vài nhận xét tiếp cho trường hợp ở hình trên:
 
@@ -213,7 +213,7 @@ Một vài nhận xét tiếp cho trường hợp ở hình trên:
 
 Ứng dụng của chuỗi Taylor là tìm một hàm gần giống với hàm số ta cần. Khi bạn chỉ cần một con nòng nọc, liệu bạn có cần ADN của cả một con nhái không?
 
-![](../../.gitbook/assets/sine-frog.png)
+![](../../img/phep-tinh-vi-tich-phan-calculus/sine-frog.png)
 
 Chuỗi Taylor của một hàm có rất nhiều hạng tử và chúng thường được sắp xếp theo mức độ quan trọng:
 
@@ -283,13 +283,13 @@ Chuỗi Taylor có mối quan hệ với một chuỗi khác cũng rất nổi t
 
 Để trả lời cho câu hỏi này, chúng ta cần phải đào sâu về mặt chuyên môn hơn nữa. Tuy nhiên có thể dễ nhận ra không phải lúc nào chúng tacũng đều có thể xấp xỉ một hàm bởi các hàm đa thức. Ví dụ như hàm $$\ln(1+x)$$, cho dù ta lấy nhiều hạng tử như thế nào chăng nữa thì hiếm khi có được một xấp xỉ đủ "tốt" tại điểm $$x=1$$ \([nguồn hình](https://en.wikipedia.org/wiki/File:Logarithm_GIF.gif)\).
 
-![](../../.gitbook/assets/logarithm_gif.gif)
+![](../../img/phep-tinh-vi-tich-phan-calculus/logarithm_gif.gif)
 
 **Chuyển đổi định nghĩa hình học sang định nghĩa đại số.**
 
 Nếu như hàm $$\sin$$ thường được định nghĩa hình học là _chiều cao của một đường trên đường tròn đơn vị_ \(Hình bên dưới\) thì việc chuyển định nghĩa này sang một công thức đại số có vẻ không khả thi. Chuỗi Taylor cung cấp cho chúng ta một quy trình dễ dàng hơn trong việc "định nghĩa đại số một hàm": Nếu chúng ta biết một giá trị của hàm \(một điểm cụ thể\) và cách nó thay đổi \(các giá trị của đạo hàm các cấp tại điểm đó\) thì chúng ta có thể "truy ngược" lại được ADN và hàm đó.
 
-![](../../.gitbook/assets/sine-unit-circle.png)
+![](../../img/phep-tinh-vi-tich-phan-calculus/sine-unit-circle.png)
 
 Tương tực, miêu tả cho hàm $$e^x$$ là "hàm mà đạo hàm của nó cũng là chính nó". Điều này suy ra ADN của nó là $$[1,1,1,1]$$ và đa thức sau khai triển sẽ là,
 
