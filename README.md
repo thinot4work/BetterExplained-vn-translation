@@ -1,4 +1,4 @@
-# BetterExplained-vn-translation
+# Trang chủ
 
 Vietnamese translation of Kalid Azad's articles published on [BetterExplained.com](https://betterexplained.com/).
 
@@ -32,17 +32,17 @@ Các bài viết sẽ được liệt kê dưới đây theo 3 loại:
 
 * **Đã dịch**: Các bài đã hoàn thành, bạn có thể chia sẻ nó hoặc giúp Math2IT sửa lỗi cho nó.
 * **Đang dịch**: Các bài đang trong giai đoạn hoàn.
-* **Sắp dịch**: Các bài được *đặt chỗ* là sẽ dịch tiếp. Nếu bạn muốn dịch cùng thì nên "tránh" các bài này ra nhé.
+* **Sắp dịch**: Các bài được _đặt chỗ_ là sẽ dịch tiếp. Nếu bạn muốn dịch cùng thì nên "tránh" các bài này ra nhé.
 
 Thứ tự dịch sẽ là các _bài cũ nhất tới mới nhất_ trong danh sách các "[Articles By Dates](https://betterexplained.com/archives/)" của Kalid \(trừ một vài trường hợp ngoại lệ\). Các bài dịch sẽ được đặt trong các thư mục mang tên các [chủ đề do chính anh Kalid chọn](https://betterexplained.com/archives/) trên trang của ảnh.
 
 ### Bài đang dịch
 
-- [Vector Calculus: Understanding Flux](https://betterexplained.com/articles/flux/).
+* [Vector Calculus: Understanding Flux](https://betterexplained.com/articles/flux/).
 
 ### Bài sắp dịch
 
-- [Understanding Big and Little Endian Byte Order](https://betterexplained.com/articles/understanding-big-and-little-endian-byte-order/).
+* [Understanding Big and Little Endian Byte Order](https://betterexplained.com/articles/understanding-big-and-little-endian-byte-order/).
 
 ### Bài đã dịch
 
