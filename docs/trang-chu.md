@@ -4,6 +4,10 @@ description: Dự án dịch bài viết của Math2IT.com
 
 # BetterExplained-vn-translation 
 
+{% hint style="info" %}
+Đọc [bài viết này](https://math2it.gitbook.io/betterexplained-vn-translation/cach-dich-bai) để biết cách dịch cùng đội ngũ Math2IT.
+{% endhint %}
+
 ## Giới thiệu
 
 Trang web này đã tạo niềm cảm hứng rất lớn cho [Math2IT](http://math2it.com) viết và xuất bản các bài về **Toán học thường thức** và **Công nghệ thường thức**. Anh Kalid viết về Toán dưới góc độ trực quan và ứng dụng khá cao. Rất khác với lối viết về Toán truyền thống chỉ gồm định nghĩa, định lý, công thức, bài tập khô khan, các bài viết trên trang web gợi mở những ý tưởng và cách hiểu trực quan về các khái niệm trong Toán học.
