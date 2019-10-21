@@ -22,9 +22,9 @@ Bạn sẽ thắc mắc liệu dịch như thế này có vi phạm bản quyề
 
 Có ba cách để bạn có thể giúp chúng mình hoàn thành dự án này.
 
-1. **Share nó và kêu gọi các bạn khác cùng dịch** bằng cách [tạo các pull request](https://github.com/math2it/BetterExplained-vn-translation/pulls). 
-2. **Kiểm tra chính tả, cách dịch cũng như các thuật ngữ toán học** và [summit một issue](https://github.com/math2it/BetterExplained-vn-translation/issues) cho Math2IT hay \(bạn vui lòng kèm theo kink bài viết cũng như nói chi tiết lỗi trong issue nha\).
-3. **Cùng dịch với Math2IT** thông qua các pull request. 
+1. **Share nó và kêu gọi các bạn khác cùng dịch**. 
+2. **Kiểm tra chính tả, cách dịch cũng như các thuật ngữ toán học** và [summit một issue](https://github.com/math2it/BetterExplained-vn-translation/issues) cho Math2IT hay \(bạn vui lòng kèm theo tên/link bài viết cũng như nói chi tiết lỗi trong issue nha\).
+3. **Cùng dịch với Math2IT**: bạn vui lòng đọc [bài viết này](https://math2it.gitbook.io/betterexplained-vn-translation/cach-dich-bai). 
 
 ## Các bài viết đã dịch
 

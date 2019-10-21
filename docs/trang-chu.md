@@ -26,29 +26,8 @@ Bạn sẽ thắc mắc liệu dịch như thế này có vi phạm bản quyề
 
 Có ba cách để bạn có thể giúp chúng mình hoàn thành dự án này.
 
-1. **Share nó và kêu gọi các bạn khác cùng dịch** bằng cách [tạo các pull request](https://github.com/math2it/BetterExplained-vn-translation/pulls). 
-2. **Kiểm tra chính tả, cách dịch cũng như các thuật ngữ toán học** và [summit một issue](https://github.com/math2it/BetterExplained-vn-translation/issues) cho Math2IT hay \(bạn vui lòng kèm theo kink bài viết cũng như nói chi tiết lỗi trong issue nha\).
-3. **Cùng dịch với Math2IT** thông qua các pull request. 
+1. **Share nó và kêu gọi các bạn khác cùng dịch**. 
+2. **Kiểm tra chính tả, cách dịch cũng như các thuật ngữ toán học** và [summit một issue](https://github.com/math2it/BetterExplained-vn-translation/issues) cho Math2IT hay \(bạn vui lòng kèm theo tên/link bài viết cũng như nói chi tiết lỗi trong issue nha\).
+3. **Cùng dịch với Math2IT**: bạn vui lòng đọc [bài viết này](https://math2it.gitbook.io/betterexplained-vn-translation/cach-dich-bai). 
 
-## Các bài viết đã dịch
-
-Các bài viết sẽ được liệt kê dưới đây theo 3 loại:
-
-* **Đã dịch**: Các bài đã hoàn thành, bạn có thể chia sẻ nó hoặc giúp Math2IT sửa lỗi cho nó.
-* **Đang dịch**: Các bài đang trong giai đoạn hoàn.
-* **Sắp dịch**: Các bài được _đặt chỗ_ là sẽ dịch tiếp. Nếu bạn muốn dịch cùng thì nên "tránh" các bài này ra nhé.
-
-Thứ tự dịch sẽ là các _bài cũ nhất tới mới nhất_ trong danh sách các "[Articles By Dates](https://betterexplained.com/archives/)" của Kalid \(trừ một vài trường hợp ngoại lệ\). Các bài dịch sẽ được đặt trong các thư mục mang tên các [chủ đề do chính anh Kalid chọn](https://betterexplained.com/archives/) trên trang của ảnh.
-
-### Bài đang dịch
-
-* [Vector Calculus: Understanding Flux](https://betterexplained.com/articles/flux/).
-
-### Bài sắp dịch
-
-* [Understanding Big and Little Endian Byte Order](https://betterexplained.com/articles/understanding-big-and-little-endian-byte-order/).
-
-### Bài đã dịch
-
-Bạn vui lòng xem trên trang chủ: [betterexplained.math2it.com](https://betterexplained.math2it.com).
 
