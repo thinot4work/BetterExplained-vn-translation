@@ -1,5 +1,5 @@
 root: ./
 
 structure:
-  readme: docs/home-page.md
+  readme: docs/trang-chu.md
   summary: SUMMARY.md
