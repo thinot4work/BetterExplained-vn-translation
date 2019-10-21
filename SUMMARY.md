@@ -1,6 +1,7 @@
 # Mục lục
 
-- [Trang chủ](docs/home-page.md)
+- [Trang chủ](docs/trang-chu.md)
+- [Các bài đã dịch](docs/tat-ca-bai-viet.md)
 
 ## Bài viết
 
