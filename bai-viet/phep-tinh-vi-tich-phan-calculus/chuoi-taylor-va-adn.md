@@ -1,6 +1,6 @@
 # Hiểu trực quan chuỗi Taylor thông qua sự liên hệ với ADN
 
-📒 [Bài viết gốc](https://betterexplained.com/articles/taylor-series/) 📝 [Sửa bản dịch này](https://github.com/dinhanhthi/BetterExplained-vn-translation/blob/master/bai-viet/phep-tinh-vi-tich-phan-calculus/chuoi-taylor-va-adn.md) 👦 [Dịch bởi Đinh Anh Thi](https://dinhanhthi.com)
+📒 [Bài viết gốc](https://betterexplained.com/articles/taylor-series/) 👦 Dịch bởi [Đinh Anh Thi](https://dinhanhthi.com)
 
 ## Dẫn đề
 
