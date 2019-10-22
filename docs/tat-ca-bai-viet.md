@@ -1,5 +1,5 @@
 ---
-description: Đang dịch (chưa hoàn tất)
+description: "Trạng thái: Vẫn đang dịch các bài viết."
 ---
 
 # Các bài viết đã dịch
