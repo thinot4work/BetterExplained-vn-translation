@@ -2,7 +2,6 @@
 
 - [BetterExplained-vn-translation](docs/trang-chu.md)
 - [Các bài đã dịch](docs/tat-ca-bai-viet.md)
-- [Dịch cùng Math2IT](docs/cach-dich-bai.md)
 
 ## Bài viết
 
