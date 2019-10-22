@@ -2,6 +2,8 @@
 description: Dự án dịch bài viết của Math2IT.com
 ---
 
+Thử nghiệm góp ý.
+
 # BetterExplained-vn-translation 
 
 {% hint style="info" %}
