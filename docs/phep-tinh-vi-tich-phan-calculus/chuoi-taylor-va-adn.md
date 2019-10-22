@@ -287,7 +287,7 @@ Chuỗi Taylor có mối quan hệ với một chuỗi khác cũng rất nổi t
 
 Để trả lời cho câu hỏi này, chúng ta cần phải đào sâu về mặt chuyên môn hơn nữa. Tuy nhiên có thể dễ nhận ra không phải lúc nào chúng tacũng đều có thể xấp xỉ một hàm bởi các hàm đa thức. Ví dụ như hàm $$\ln(1+x)$$, cho dù ta lấy nhiều hạng tử như thế nào chăng nữa thì hiếm khi có được một xấp xỉ đủ "tốt" tại điểm $$x=1$$ \([nguồn hình](https://en.wikipedia.org/wiki/File:Logarithm_GIF.gif)\).
 
-![](../../img/phep-tinh-vi-tich-phan-calculus/giphy.gif)
+![](../../img/phep-tinh-vi-tich-phan-calculus/Logarithm.gif)
 
 **Chuyển đổi định nghĩa hình học sang định nghĩa đại số.**
 
