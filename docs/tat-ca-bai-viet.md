@@ -5,7 +5,8 @@ description: Đang dịch (chưa hoàn tất)
 # Các bài viết đã dịch
 
 {% hint style="success" %}
-⚡ **Bài đang dịch**: [Vector Calculus: Understanding Flux](https://betterexplained.com/articles/flux/). 
+⚡ **Bài đang dịch**: [Vector Calculus: Understanding Flux](https://betterexplained.com/articles/flux/).
+<br />
 🧭 **Bài sắp dịch**: [Understanding Big and Little Endian Byte Order](https://betterexplained.com/articles/understanding-big-and-little-endian-byte-order/).
 {% endhint %} 
 
